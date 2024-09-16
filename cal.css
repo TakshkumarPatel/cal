@@ -63,3 +63,15 @@ button{
 .operator{
     color: #6dee0a;
 }
+.operator:hover{
+    background-color: #6dee0a;
+    color: black;
+}
+.equalBtn:hover{
+    color: #fb7c14;
+    background-color: white;
+}
+.buton:hover{
+    background-color: #0acfc5;
+    color: black;
+}
