@@ -1,8 +1,7 @@
+
 const input = document.getElementById('inputBox');
 const buttons = document.querySelectorAll('button');
-
 let expression = "";
-
 buttons.forEach(button => {
     button.addEventListener('click', (e) => {
         const value = e.target.textContent;
