@@ -1,1 +1,1 @@
-calcula
+calculat
