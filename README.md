@@ -1,1 +1,1 @@
-calculato
+calculator
